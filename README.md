@@ -97,3 +97,15 @@ Just execuate the following command for graph classification task:
 ```
 python main_graph_classification.py
 ```
+
+## Citing
+If you find MVPool useful for your research, please consider citing the following paper:
+```
+@article{zhang2021hierarchical,
+  title={Hierarchical Multi-View Graph Pooling with Structure Learning},
+  author={Zhang, Zhen and Bu, Jiajun and Ester, Martin and Zhang, Jianfeng and Li, Zhao and Yao, Chengwei and Huifen, Dai and Yu, Zhi and Wang, Can},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2021},
+  publisher={IEEE}
+}
+``` 
