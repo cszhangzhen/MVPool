@@ -1,5 +1,5 @@
 # MVPool
-Hierarchical Multi-View Graph Pooling with Structure Learning [paper](https://ieeexplore.ieee.org/abstract/document/9460814).
+Hierarchical Multi-View Graph Pooling with Structure Learning ([paper])(https://ieeexplore.ieee.org/abstract/document/9460814).
 
 This is a PyTorch implementation of the MVPool algorithm, which is accepted by TKDE. The proposed MVPool conducts pooling operation via mulit-view information. Then, a structure learning layer is stacked on the pooling operation, which aims to learn a refined graph structure that can best preserve the essential topological information. It's a general operator that can be used in various architectures, including node-level representation learning and graph-level representation learning.
 
