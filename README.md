@@ -35,7 +35,7 @@ You can use cPickle.load(open(filename)) to load the numpy/scipy objects x, y, t
 
 ### Node Classification
 
-![](https://github.com/cszhangzhen/HGP-SL/blob/master/fig/node-classification.png)
+![](https://github.com/cszhangzhen/MVPool/blob/main/fig/node-classification.png)
 
 Just execuate the following command for node classification task:
 ```
@@ -91,7 +91,7 @@ There are OPTIONAL files if the respective information is available:
 
 ### Run Graph Classification
 
-![](https://github.com/cszhangzhen/HGP-SL/blob/master/fig/graph-classification.png)
+![](https://github.com/cszhangzhen/MVPool/blob/main/fig/graph-classification.png)
 
 Just execuate the following command for graph classification task:
 ```
