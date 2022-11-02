@@ -41,6 +41,14 @@ Just execuate the following command for node classification task:
 ```
 python main_node_classification.py
 ```
+### Parameter settings for node classification
+| Datasets      | lr        | weight_decay   | batch_size      | pool_ratio     | lambda  | net_layers |
+| ------------- | --------- | -------------- | -------- 	   | --------       | -------- | ---------- |
+| Cora      | 0.01     | 0.01     	 | Full            | 0.5/0.5/0.8/0.5            | 0.9      | 4			| 
+| Citeseer  | 0.005     | 0.1          | Full             | 0.7            | 0.0      | 	1		|
+| Pubmed	    | 0.01     | 0.001          | Full             | 0.05/0.6/0.5/0.9            | 1.0      | 4			|
+| CS          | 0.01		| 0.01          | Full             | 0.05/0.5/0.5/0.5            | 0.0      | 4			|
+| Physics            | 0.01    | 0.01          | Full              | 0.05/0.8/0.8/0.8            | 0.0      | 4          |
 
 
 ## Graph Classification Datasets
